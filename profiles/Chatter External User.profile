@@ -6,6 +6,16 @@
         <field>Account.account_External_Id__c</field>
         <readable>false</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Asset.asset_External_Id__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Contact.contact_External_Id__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
     <userLicense>Chatter External</userLicense>
     <userPermissions>
         <enabled>true</enabled>
