@@ -16,6 +16,16 @@
         <field>Contact.contact_External_Id__c</field>
         <readable>false</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Event.activity_External_Id__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Task.activity_External_Id__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
     <userLicense>Chatter Free</userLicense>
     <userPermissions>
         <enabled>true</enabled>
