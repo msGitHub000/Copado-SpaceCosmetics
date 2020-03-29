@@ -208,6 +208,16 @@
         <fullName>UsageEndDate</fullName>
         <trackHistory>false</trackHistory>
     </fields>
+    <fields>
+        <fullName>asset_External_Id__c</fullName>
+        <externalId>false</externalId>
+        <label>asset External Id</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <listViews>
         <fullName>AllAssets</fullName>
         <filterScope>Everything</filterScope>
