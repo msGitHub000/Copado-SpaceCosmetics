@@ -71,6 +71,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Custom_Task__c.Task_Type__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Event.activity_External_Id__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -81,6 +86,18 @@
     </fieldPermissions>
     <layoutAssignments>
         <layout>Custom_Task__c-Custom Task Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Custom_Task__c-Custom Task Layout</layout>
+        <recordType>Custom_Task__c.Critical</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Custom_Task__c-Custom Task Layout</layout>
+        <recordType>Custom_Task__c.Low_Priority</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Custom_Task__c-Custom Task Layout</layout>
+        <recordType>Custom_Task__c.Urgent</recordType>
     </layoutAssignments>
     <objectPermissions>
         <allowCreate>true</allowCreate>
@@ -103,7 +120,6 @@
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>true</default>
-        <personAccountDefault>true</personAccountDefault>
         <recordType>Custom_Task__c.Urgent</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>

@@ -34,6 +34,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Custom_Task__c.Task_Type__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Event.activity_External_Id__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -42,6 +47,36 @@
         <field>Task.activity_External_Id__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <layoutAssignments>
+        <layout>Custom_Task__c-Custom Task Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Custom_Task__c-Custom Task Layout</layout>
+        <recordType>Custom_Task__c.Critical</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Custom_Task__c-Custom Task Layout</layout>
+        <recordType>Custom_Task__c.Low_Priority</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Custom_Task__c-Custom Task Layout</layout>
+        <recordType>Custom_Task__c.Urgent</recordType>
+    </layoutAssignments>
+    <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>Custom_Task__c.Critical</recordType>
+        <visible>false</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>Custom_Task__c.Low_Priority</recordType>
+        <visible>false</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>Custom_Task__c.Urgent</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
