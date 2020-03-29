@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <classAccesses>
+        <apexClass>GameLevel</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>Level_UnderGround</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>Level_Underground_Test</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>Mario</apexClass>
         <enabled>true</enabled>
     </classAccesses>
@@ -20,6 +32,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.account_External_Id__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Asset.asset_External_Id__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
