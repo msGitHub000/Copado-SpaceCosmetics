@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Custom Task</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Custom Tasks</value>
+    </caseValues>
+    <recordTypes>
+        <label><!-- Critical --></label>
+        <name>Critical</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Low Priority --></label>
+        <name>Low_Priority</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Urgent --></label>
+        <name>Urgent</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- This field cannot be empty! --></errorMessage>
+        <name>Cinema_External_Id_Not_Empty</name>
+    </validationRules>
+</CustomObjectTranslation>
