@@ -268,6 +268,15 @@
         <fullName>Type</fullName>
         <type>Picklist</type>
     </fields>
+    <fields>
+        <fullName>campaign_External_Id__c</fullName>
+        <externalId>false</externalId>
+        <label>campaign External Id</label>
+        <length>20</length>
+        <required>false</required>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <listViews>
         <fullName>AllActiveCampaigns</fullName>
         <columns>CAMPAIGN.NAME</columns>
