@@ -1,0 +1,12 @@
+{
+  "namespace" : "",
+  "packageDirectories" : [ {
+    "path" : "force-app",
+    "default" : true
+  }, {
+    "path" : "nextGenCoreApp",
+    "default" : false
+  } ],
+  "sourceApiVersion" : "45.0",
+  "sfdcLoginUrl" : "https://login.salesforce.com"
+}
