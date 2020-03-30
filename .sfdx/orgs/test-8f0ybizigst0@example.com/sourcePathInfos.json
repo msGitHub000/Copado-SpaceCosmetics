@@ -1,0 +1,1022 @@
+[
+    [
+        "/app/dxProject/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1585562256141,
+            "changeTime": 1585562256141,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1585562256141,
+            "changeTime": 1585562256141,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1585562256141,
+            "changeTime": 1585562256141,
+            "contentHash": "c41c5930588a6592da45a18e54a3853ef4570f89",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main/default/lwc",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1585562256141,
+            "changeTime": 1585562256141,
+            "contentHash": "71c20a341bfe32aa5cd5b4384e94f942bab6a7d3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1585562256141,
+            "changeTime": 1585562256141,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1585562256153,
+            "changeTime": 1585562256153,
+            "contentHash": "05160d2076ca3e34b8bfbe7fa2827e62ba2741ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/classes",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1585562256145,
+            "changeTime": 1585562256145,
+            "contentHash": "080e597ef163df695fbd8ea57be48639f810626a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/classes/GameLevel.cls",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/classes/GameLevel.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 75,
+            "modifiedTime": 1585562256141,
+            "changeTime": 1585562256141,
+            "contentHash": "394a46ad356c0fda3501eb297cb0d3aa539d0e48",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/classes/GameLevel.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/classes/GameLevel.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1585562256141,
+            "changeTime": 1585562256141,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/classes/Level_UnderGround.cls",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/classes/Level_UnderGround.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1585562256141,
+            "changeTime": 1585562256141,
+            "contentHash": "778895c084e0e2fc77baed09cee46be669d89e12",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/classes/Level_UnderGround.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/classes/Level_UnderGround.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1585562256141,
+            "changeTime": 1585562256141,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/classes/Level_Underground_Test.cls",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/classes/Level_Underground_Test.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 189,
+            "modifiedTime": 1585562256145,
+            "changeTime": 1585562256145,
+            "contentHash": "65911b0f513752650a2731fd2dd450b675da1a3f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/classes/Level_Underground_Test.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/classes/Level_Underground_Test.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1585562256145,
+            "changeTime": 1585562256145,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/classes/Mario.cls",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/classes/Mario.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 175,
+            "modifiedTime": 1585562256145,
+            "changeTime": 1585562256145,
+            "contentHash": "d0a02d3e7cfc1d9b897f60617cc3d5cf5511aa8e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/classes/Mario.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/classes/Mario.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1585562256145,
+            "changeTime": 1585562256145,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/classes/MarioTest.cls",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/classes/MarioTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 163,
+            "modifiedTime": 1585562256145,
+            "changeTime": 1585562256145,
+            "contentHash": "de14a0ad3c11f3e9a1fa0c99537466d0a7db5157",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/classes/MarioTest.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/classes/MarioTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1585562256145,
+            "changeTime": 1585562256145,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/classes/Mario_Run.cls",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/classes/Mario_Run.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 143,
+            "modifiedTime": 1585562256145,
+            "changeTime": 1585562256145,
+            "contentHash": "f7483b808e28bd3129128753a3e11b2ac997cf99",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/classes/Mario_Run.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/classes/Mario_Run.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1585562256145,
+            "changeTime": 1585562256145,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/classes/Mario_RunTest.cls",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/classes/Mario_RunTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 290,
+            "modifiedTime": 1585562256145,
+            "changeTime": 1585562256145,
+            "contentHash": "f67fedf52f3052c37c6a1383597407471a57453c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/classes/Mario_RunTest.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/classes/Mario_RunTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1585562256145,
+            "changeTime": 1585562256145,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/layouts",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1585562256145,
+            "changeTime": 1585562256145,
+            "contentHash": "820d80c0b362cccf219a392ab01f4fd8f1b4e36e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/layouts/Custom_Task__c-Custom Task Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/layouts/Custom_Task__c-Custom Task Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2870,
+            "modifiedTime": 1585562256145,
+            "changeTime": 1585562256145,
+            "contentHash": "903fc90106c467ff0e78a5f26cc015da6294edad",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/objectTranslations",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/objectTranslations",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1585562256145,
+            "changeTime": 1585562256145,
+            "contentHash": "2b91361015de7e5be75d167bd71991c7c8d7010f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/objectTranslations/Custom_Task__c-en_US",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/objectTranslations/Custom_Task__c-en_US",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1585562256145,
+            "changeTime": 1585562256145,
+            "contentHash": "c7cbc35f5f069d6a7750cce5864faddfbd6156a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/objectTranslations/Custom_Task__c-en_US/Account__c.fieldTranslation-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/objectTranslations/Custom_Task__c-en_US/Account__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1585562256145,
+            "changeTime": 1585562256145,
+            "contentHash": "d186068c4b45d0fa4c4ecd1b828afe13472f0f68",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/objectTranslations/Custom_Task__c-en_US/Custom_Task__c-en_US.objectTranslation-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/objectTranslations/Custom_Task__c-en_US/Custom_Task__c-en_US.objectTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 878,
+            "modifiedTime": 1585562256145,
+            "changeTime": 1585562256145,
+            "contentHash": "64762ad2852a3dde0d8a12157afdf577dce3a421",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/objectTranslations/Custom_Task__c-en_US/Details__c.fieldTranslation-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/objectTranslations/Custom_Task__c-en_US/Details__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 202,
+            "modifiedTime": 1585562256145,
+            "changeTime": 1585562256145,
+            "contentHash": "35f4f252218eb91f267e489420252704b4bd3d58",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/objectTranslations/Custom_Task__c-en_US/External_Id__c.fieldTranslation-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/objectTranslations/Custom_Task__c-en_US/External_Id__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1585562256145,
+            "changeTime": 1585562256145,
+            "contentHash": "275a6f0e025f5e459829eb440190955ef096c068",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/objectTranslations/Custom_Task__c-en_US/Short_Comment__c.fieldTranslation-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/objectTranslations/Custom_Task__c-en_US/Short_Comment__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 214,
+            "modifiedTime": 1585562256145,
+            "changeTime": 1585562256145,
+            "contentHash": "a9d09204145e6c8a2fa434ee8141d107cbe92c90",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/objectTranslations/Custom_Task__c-en_US/Status__c.fieldTranslation-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/objectTranslations/Custom_Task__c-en_US/Status__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1040,
+            "modifiedTime": 1585562256145,
+            "changeTime": 1585562256145,
+            "contentHash": "325189e971c946d75bd015b43a9d66e5730870f9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/objectTranslations/Custom_Task__c-en_US/Task_Type__c.fieldTranslation-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/objectTranslations/Custom_Task__c-en_US/Task_Type__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 612,
+            "modifiedTime": 1585562256145,
+            "changeTime": 1585562256145,
+            "contentHash": "1cb75dd21de7a73172c94a270b09848591d32aca",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/objects",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1585562256145,
+            "changeTime": 1585562256145,
+            "contentHash": "9ad43d78f7d884f47552ee5fad53b981a5089004",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1585562256149,
+            "changeTime": 1585562256149,
+            "contentHash": "9273f2747b3100da426a1b66dd4ca7aa859727d9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/Custom_Task__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/Custom_Task__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5318,
+            "modifiedTime": 1585562256145,
+            "changeTime": 1585562256145,
+            "contentHash": "8dbf3617e7c1c4278be2a184aa7c612abd3e450c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/fields",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1585562256149,
+            "changeTime": 1585562256149,
+            "contentHash": "1c82f6b611a5b271a04b8533865961647fa7fea9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/fields/Account__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/fields/Account__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 547,
+            "modifiedTime": 1585562256145,
+            "changeTime": 1585562256145,
+            "contentHash": "1805b61205470ed2cbfd00afaa2a9be95a63122f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/fields/Details__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/fields/Details__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 386,
+            "modifiedTime": 1585562256149,
+            "changeTime": 1585562256149,
+            "contentHash": "16effc55be150b368d4bbee2975b65b278c1aef8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/fields/External_Id__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/fields/External_Id__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 490,
+            "modifiedTime": 1585562256149,
+            "changeTime": 1585562256149,
+            "contentHash": "1007ad651ad9e6d8937fc219fcc33e02dd87ec24",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/fields/Short_Comment__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/fields/Short_Comment__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 363,
+            "modifiedTime": 1585562256149,
+            "changeTime": 1585562256149,
+            "contentHash": "e834a2b844042da5af3f970b78d2c925d11fa994",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/fields/Status__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/fields/Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1520,
+            "modifiedTime": 1585562256149,
+            "changeTime": 1585562256149,
+            "contentHash": "71b1266f1bde02c4b1a1247e35decc5d8570e35b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/fields/Task_Type__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/fields/Task_Type__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1008,
+            "modifiedTime": 1585562256149,
+            "changeTime": 1585562256149,
+            "contentHash": "ca2e3841729935f3af22c1c229fd1ebcfb2d6e06",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/listViews",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1585562256149,
+            "changeTime": 1585562256149,
+            "contentHash": "02274e263ca2f73716ad195c546ed4ba48e31765",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/listViews/All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1585562256149,
+            "changeTime": 1585562256149,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/listViews/CS.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/listViews/CS.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 308,
+            "modifiedTime": 1585562256149,
+            "changeTime": 1585562256149,
+            "contentHash": "45ad9902efcd108ab0eab9107fd9e37c4db3540a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/recordTypes",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/recordTypes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1585562256149,
+            "changeTime": 1585562256149,
+            "contentHash": "b0d490cd1d35d6f843fabf2b87a1a893b60ab3be",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/recordTypes/Critical.recordType-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/recordTypes/Critical.recordType-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1049,
+            "modifiedTime": 1585562256149,
+            "changeTime": 1585562256149,
+            "contentHash": "6c9bad9ac9d59268973d7e79f10e163d3f7bd5ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/recordTypes/Low_Priority.recordType-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/recordTypes/Low_Priority.recordType-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1395,
+            "modifiedTime": 1585562256149,
+            "changeTime": 1585562256149,
+            "contentHash": "5c77366dba23d823c6aa18aa0fff39cf2830b1d7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/recordTypes/Urgent.recordType-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/recordTypes/Urgent.recordType-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1155,
+            "modifiedTime": 1585562256149,
+            "changeTime": 1585562256149,
+            "contentHash": "11c71fcfece8f7da5fb589a202daa9bcda06ef7c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/validationRules",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/validationRules",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1585562256149,
+            "changeTime": 1585562256149,
+            "contentHash": "95f5cb1719896f56912193f7ea591a97afb2702a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/validationRules/Cinema_External_Id_Not_Empty.validationRule-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/objects/Custom_Task__c/validationRules/Cinema_External_Id_Not_Empty.validationRule-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 396,
+            "modifiedTime": 1585562256149,
+            "changeTime": 1585562256149,
+            "contentHash": "80eccc7c97bfa3cfb81bd97bea673b76a4e3c21c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/profiles",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1585562256149,
+            "changeTime": 1585562256149,
+            "contentHash": "07fb79a4893f37f7f1ecd0500d16eddf5b3a20c2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/profiles/Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 22346,
+            "modifiedTime": 1585562256149,
+            "changeTime": 1585562256149,
+            "contentHash": "4814ca5725a6f39fd65d8df2f4919b790fe5d842",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/profiles/ContractManager.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/profiles/ContractManager.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8366,
+            "modifiedTime": 1585562256149,
+            "changeTime": 1585562256149,
+            "contentHash": "5f6dd7555e0452f6b3d827cff6a0c4180faeb4e9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/profiles/MarketingProfile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/profiles/MarketingProfile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8600,
+            "modifiedTime": 1585562256149,
+            "changeTime": 1585562256149,
+            "contentHash": "d78258071e60aceb83f1782db0a139e988804bde",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/profiles/ReadOnly.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/profiles/ReadOnly.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6768,
+            "modifiedTime": 1585562256149,
+            "changeTime": 1585562256149,
+            "contentHash": "6d995430241e21921feecd87f0c018b1dddff881",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/profiles/SolutionManager.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/profiles/SolutionManager.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8248,
+            "modifiedTime": 1585562256149,
+            "changeTime": 1585562256149,
+            "contentHash": "eb5e5f3d77701a73532140419d7fe0cf6e1ff0f2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/profiles/Standard.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/profiles/Standard.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8139,
+            "modifiedTime": 1585562256149,
+            "changeTime": 1585562256149,
+            "contentHash": "56692e638ff234f72444fb8102c4fe94fd1019ea",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/profiles/StandardAul.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/profiles/StandardAul.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7677,
+            "modifiedTime": 1585562256149,
+            "changeTime": 1585562256149,
+            "contentHash": "be693b0edfcc28f70ecaaa63761d6407bb4f0aa6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/sharingRules",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/sharingRules",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1585562256149,
+            "changeTime": 1585562256149,
+            "contentHash": "734507dc81019a5cc7c48cc72617797293058c3d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/sharingRules/Custom_Task__c.sharingRules-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/sharingRules/Custom_Task__c.sharingRules-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 103,
+            "modifiedTime": 1585562256149,
+            "changeTime": 1585562256149,
+            "contentHash": "32225169cd05d1435539f6e3fb94298ac65d4316",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/tabs",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1585562256149,
+            "changeTime": 1585562256149,
+            "contentHash": "622300d1115a14cd75afd19112902d903c5abe7e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/tabs/Custom_Task__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/tabs/Custom_Task__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 186,
+            "modifiedTime": 1585562256149,
+            "changeTime": 1585562256149,
+            "contentHash": "428ff5b8980f37163455e8fe2a740cd74f586839",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/topicsForObjects",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/topicsForObjects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1585562256153,
+            "changeTime": 1585562256153,
+            "contentHash": "b6866df005b3a6b2ae80a3f0572da0d404c690b9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/topicsForObjects/Custom_Task__c.topicsForObjects-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/topicsForObjects/Custom_Task__c.topicsForObjects-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 215,
+            "modifiedTime": 1585562256153,
+            "changeTime": 1585562256153,
+            "contentHash": "f9dd866e12bc2091bd8ffd2690675cbe14a4ad95",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/workflows",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/workflows",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1585562256153,
+            "changeTime": 1585562256153,
+            "contentHash": "59de39aefd3ff18576b4b73f4f40451b1b486581",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/nextGenCoreApp/main/workflows/Custom_Task__c.workflow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/nextGenCoreApp/main/workflows/Custom_Task__c.workflow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 700,
+            "modifiedTime": 1585562256153,
+            "changeTime": 1585562256153,
+            "contentHash": "058d6191a00fadac4972b117b2674a74131d75cc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1585562258529,
+            "changeTime": 1585562258529,
+            "contentHash": "304608db2fae6956bff223bb42e006fe72ef0d1e",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
