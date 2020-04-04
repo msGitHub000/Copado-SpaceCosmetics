@@ -13,10 +13,4 @@ public class AccountClass {
         a.Description = 'Default Description';
         return a;
     }
-
-    public static Account setAccountDefaults(Account a){
-        //Set default Description
-        a.Description ='Default Description';
-        return a;
-    }
 }
