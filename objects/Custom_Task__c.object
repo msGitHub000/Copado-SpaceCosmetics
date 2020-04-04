@@ -275,6 +275,11 @@
     </fields>
     <label>Custom Task</label>
     <listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
+    <listViews>
         <fullName>CS</fullName>
         <columns>NAME</columns>
         <columns>External_Id__c</columns>
@@ -289,25 +294,11 @@
         <type>AutoNumber</type>
     </nameField>
     <pluralLabel>Custom Tasks</pluralLabel>
+    <recordTypeTrackHistory>false</recordTypeTrackHistory>
     <recordTypes>
         <fullName>Critical</fullName>
         <active>true</active>
         <label>Critical</label>
-        <picklistValues>
-            <picklist>Task_Type__c</picklist>
-            <values>
-                <fullName>Daily</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Other</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Project</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
         <picklistValues>
             <picklist>Status__c</picklist>
             <values>
@@ -323,11 +314,6 @@
                 <default>false</default>
             </values>
         </picklistValues>
-    </recordTypes>
-    <recordTypes>
-        <fullName>Low_Priority</fullName>
-        <active>true</active>
-        <label>Low Priority</label>
         <picklistValues>
             <picklist>Task_Type__c</picklist>
             <values>
@@ -343,6 +329,11 @@
                 <default>false</default>
             </values>
         </picklistValues>
+    </recordTypes>
+    <recordTypes>
+        <fullName>Low_Priority</fullName>
+        <active>true</active>
+        <label>Low Priority</label>
         <picklistValues>
             <picklist>Status__c</picklist>
             <values>
@@ -370,11 +361,6 @@
                 <default>false</default>
             </values>
         </picklistValues>
-    </recordTypes>
-    <recordTypes>
-        <fullName>Urgent</fullName>
-        <active>true</active>
-        <label>Urgent</label>
         <picklistValues>
             <picklist>Task_Type__c</picklist>
             <values>
@@ -390,6 +376,11 @@
                 <default>false</default>
             </values>
         </picklistValues>
+    </recordTypes>
+    <recordTypes>
+        <fullName>Urgent</fullName>
+        <active>true</active>
+        <label>Urgent</label>
         <picklistValues>
             <picklist>Status__c</picklist>
             <values>
@@ -409,8 +400,23 @@
                 <default>false</default>
             </values>
         </picklistValues>
+        <picklistValues>
+            <picklist>Task_Type__c</picklist>
+            <values>
+                <fullName>Daily</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Other</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Project</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
     </recordTypes>
-    <searchLayouts />
+    <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <validationRules>
         <fullName>Cinema_External_Id_Not_Empty</fullName>
