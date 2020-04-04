@@ -41,6 +41,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Campaign.campaign_External_Id__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Contact.contact_External_Id__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -79,6 +84,9 @@
         <field>Task.activity_External_Id__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <layoutAssignments>
+        <layout>Campaign-Campaign Layout</layout>
+    </layoutAssignments>
     <layoutAssignments>
         <layout>Custom_Task__c-Custom Task Layout</layout>
     </layoutAssignments>
@@ -130,11 +138,23 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+        <name>AllowUniversalSearch</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>AllowViewKnowledge</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
         <name>ApexRestServices</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
         <name>ApiEnabled</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ApproveContract</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -214,19 +234,7 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>CreateCustomizeDashboards</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>CreateCustomizeFilters</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>CreateCustomizeReports</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>CreateDashboardFolders</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -234,19 +242,7 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>CreatePackaging</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>CreateReportFolders</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>CreateTopics</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>CreateWorkBadgeDefinition</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -298,11 +294,7 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>EditMyDashboards</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>EditMyReports</name>
+        <name>EditKnowledge</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -318,11 +310,19 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+        <name>EditPublicReports</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
         <name>EditPublicTemplates</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
         <name>EditReadonlyFields</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>EditReports</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -442,7 +442,7 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>ManageDashbdsInPubFolders</name>
+        <name>ManageDashboards</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -459,6 +459,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ManageEmailClientConfig</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ManageEntitlements</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -486,6 +490,14 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+        <name>ManageKnowledge</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ManageKnowledgeImportExport</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
         <name>ManageLeads</name>
     </userPermissions>
     <userPermissions>
@@ -503,6 +515,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ManagePackageLicenses</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ManagePartners</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -530,11 +546,11 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>ManageReportsInPubFolders</name>
+        <name>ManageRoles</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>ManageRoles</name>
+        <name>ManageSearchPromotionRules</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -602,10 +618,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>PublishPackaging</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>RemoveDirectMessageMembers</name>
     </userPermissions>
     <userPermissions>
@@ -631,6 +643,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>SendSitRequests</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ShareInternalArticles</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -734,22 +750,10 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>ViewPublicDashboards</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ViewPublicReports</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>ViewRoles</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
         <name>ViewSetup</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ViewUserPII</name>
     </userPermissions>
 </Profile>
