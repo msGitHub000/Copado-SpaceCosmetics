@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <classAccesses>
+        <apexClass>AccountClass</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AccountClassTest</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>GameLevel</apexClass>
         <enabled>true</enabled>
     </classAccesses>
@@ -82,6 +90,45 @@
     <layoutAssignments>
         <layout>Custom_Task__c-Custom Task Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>Custom_Task__c-Custom Task Layout</layout>
+        <recordType>Custom_Task__c.Critical</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Custom_Task__c-Custom Task Layout</layout>
+        <recordType>Custom_Task__c.Low_Priority</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Custom_Task__c-Custom Task Layout</layout>
+        <recordType>Custom_Task__c.Urgent</recordType>
+    </layoutAssignments>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Account</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Asset</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Contact</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
     <objectPermissions>
         <allowCreate>true</allowCreate>
         <allowDelete>true</allowDelete>
@@ -574,10 +621,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>ModifyAllData</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>ModifyDataClassification</name>
     </userPermissions>
     <userPermissions>
@@ -695,10 +738,6 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>UseWebLink</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ViewAllData</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>

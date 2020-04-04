@@ -259,6 +259,7 @@
         <type>AutoNumber</type>
     </nameField>
     <pluralLabel>Custom Tasks</pluralLabel>
+    <recordTypeTrackHistory>false</recordTypeTrackHistory>
     <recordTypes>
         <fullName>Critical</fullName>
         <active>true</active>
